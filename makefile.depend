@@ -1,0 +1,32 @@
+crt0.o              :   crt0.asm \
+                        xcs.inc
+xcs.o               :   xcs.asm xcs.inc
+app.o               :   app.asm app.inc \
+                        xcs.inc \
+                        title.inc game.inc
+title.o             :   title.asm title.inc \
+                        xcs.inc \
+                        app.inc \
+                        game.inc
+game.o              :   game.asm game.inc \
+                        xcs.inc \
+                        app.inc \
+                        title.inc \
+                        var.inc cf.inc
+var.o               :   var.asm var.inc \
+                        xcs.inc \
+                        app.inc \
+                        game.inc
+cf.o                :   cf.asm cf.inc \
+                        xcs.inc \
+                        app.inc \
+                        game.inc var.inc cfobj.inc sb2.inc
+cfobj.o             :   cfobj.asm cfobj.inc \
+                        xcs.inc \
+                        app.inc \
+                        game.inc var.inc \
+                        resources/sounds/song.inc
+sb2.o               :   sb2.asm sb2.inc \
+                        xcs.inc \
+                        app.inc \
+                        game.inc var.inc
