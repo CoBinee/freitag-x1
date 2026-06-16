@@ -1,8 +1,8 @@
 ## THE CAVERNS OF FREITAG™ 取扱説明書
 
-著：David Shapiro
-発売：MUSE SOFTWARE (1982年)
-対応機種：Apple II+ & Apple IIe
+著：David Shapiro  
+発売：MUSE SOFTWARE (1982年)  
+対応機種：Apple II+ & Apple IIe  
 
 ## 💡 ゲームの目的 (YOUR OBJECTIVE)
 
@@ -13,7 +13,7 @@
 
    1. ディスクの挿入: コンピュータの電源が切れている状態でプログラムディスクをドライブに挿入します（※Apple IIeを使用している場合は特に重要です）。
    2. 起動: コンピュータとモニターの電源を入れると、タイトル画面が表示されます。
-   * ※Apple IIeを使用している場合は、必ず最初に Caps Lock キーを押してください。
+      * ※Apple IIeを使用している場合は、必ず最初に Caps Lock キーを押してください。
    3. 名前の入力: 戦士の名前を入力し、RETURN キーを押します。
    4. 難易度選択: スキルレベルを 1（最も簡単）〜 9（最も難しい） から選択します。
    5. 速度選択: ゲームの進行速度を 1（最速）〜 50（最遅） から選択し、RETURN キーを押します。
