@@ -20,5 +20,8 @@ Releases にある freitag-xxx.d88 ファイルをダウンロード、各種 X1
 - `O`<br>メッセージの ON/OFF
 - `:`<br>自分を中心にした表示に更新
 
+## 遊びかた
+- [取扱説明書](./MANUAL.md)
+
 ## 開発
 - [Z88DK](https://z88dk.org/site/)
